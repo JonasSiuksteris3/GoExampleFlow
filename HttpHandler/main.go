@@ -1,4 +1,4 @@
-package GoExampleFlow
+package HttpHandler
 
 import (
 	"encoding/json"
